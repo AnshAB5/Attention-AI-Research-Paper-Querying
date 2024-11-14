@@ -1,2 +1,1 @@
-# Attention-AI-Research-Paper-Querying
-I built this with LangChain and Gemini that enables users to efficiently search and extract information from multiple PDF documents through a simple interface.
+QueryPDF is a powerful tool that allows users to query multiple PDF documents and receive accurate answers based on the content of those PDFs. Built using LangChain and Gemini, this project provides a simple interface for extracting information from documents, making it easier to analyze, search, and interact with large volumes of text.
